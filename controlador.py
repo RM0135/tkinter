@@ -1,4 +1,4 @@
-from models.banco import Banco
+from banco import Banco
 
 class ControladorBanco:
     def __init__(self):
